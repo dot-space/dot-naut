@@ -7,5 +7,6 @@
 - [Daksh Gehlot](https://github.com/TheOathkeeper)
 - [Jayvardhan Bhardwaj](https://github.com/decisiontft)
 - [Khushvardhan Bhardwaj](https://github.com/cryptbird)
+- [Sanyam Jain](https://github.com/Sanyam1093)
 - [Sparsh Khandelwal](https://github.com/spk0101)
 - [Varsha Poswalia](https://github.com/vposwalia)
