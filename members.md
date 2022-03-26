@@ -8,4 +8,5 @@
 - [Jayvardhan Bhardwaj](https://github.com/decisiontft)
 - [Khushvardhan Bhardwaj](https://github.com/cryptbird)
 - [Sparsh Khandelwal](https://github.com/spk0101)
+- [Prateek Tekriwal](https://github.com/TekPrateek)
 - [Varsha Poswalia](https://github.com/vposwalia)
